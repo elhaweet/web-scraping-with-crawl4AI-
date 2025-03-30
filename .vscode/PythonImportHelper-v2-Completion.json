@@ -1,0 +1,362 @@
+[
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncWebCrawler",
+        "importPath": "crawl4ai",
+        "description": "crawl4ai",
+        "isExtraImport": true,
+        "detail": "crawl4ai",
+        "documentation": {}
+    },
+    {
+        "label": "BrowserConfig",
+        "importPath": "crawl4ai",
+        "description": "crawl4ai",
+        "isExtraImport": true,
+        "detail": "crawl4ai",
+        "documentation": {}
+    },
+    {
+        "label": "CacheMode",
+        "importPath": "crawl4ai",
+        "description": "crawl4ai",
+        "isExtraImport": true,
+        "detail": "crawl4ai",
+        "documentation": {}
+    },
+    {
+        "label": "CrawlerRunConfig",
+        "importPath": "crawl4ai",
+        "description": "crawl4ai",
+        "isExtraImport": true,
+        "detail": "crawl4ai",
+        "documentation": {}
+    },
+    {
+        "label": "LLMExtractionStrategy",
+        "importPath": "crawl4ai",
+        "description": "crawl4ai",
+        "isExtraImport": true,
+        "detail": "crawl4ai",
+        "documentation": {}
+    },
+    {
+        "label": "LLMConfig",
+        "importPath": "crawl4ai",
+        "description": "crawl4ai",
+        "isExtraImport": true,
+        "detail": "crawl4ai",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncWebCrawler",
+        "importPath": "crawl4ai",
+        "description": "crawl4ai",
+        "isExtraImport": true,
+        "detail": "crawl4ai",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "is_duplicated",
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "isExtraImport": true,
+        "detail": "src.utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_data_to_csv",
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "isExtraImport": true,
+        "detail": "src.utils",
+        "documentation": {}
+    },
+    {
+        "label": "LLM_MODEL",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "API_TOKEN",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "CSS_SELECTOR",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_PAGES",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "SCRAPER_INSTRUCTIONS",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "get_browser_config",
+        "importPath": "src.scraper",
+        "description": "src.scraper",
+        "isExtraImport": true,
+        "detail": "src.scraper",
+        "documentation": {}
+    },
+    {
+        "label": "get_llm_strategy",
+        "importPath": "src.scraper",
+        "description": "src.scraper",
+        "isExtraImport": true,
+        "detail": "src.scraper",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_and_process_page",
+        "importPath": "src.scraper",
+        "description": "src.scraper",
+        "isExtraImport": true,
+        "detail": "src.scraper",
+        "documentation": {}
+    },
+    {
+        "label": "BusinessData",
+        "importPath": "models.business",
+        "description": "models.business",
+        "isExtraImport": true,
+        "detail": "models.business",
+        "documentation": {}
+    },
+    {
+        "label": "BusinessData",
+        "kind": 6,
+        "importPath": "models.business",
+        "description": "models.business",
+        "peekOfCode": "class BusinessData(BaseModel):\n    name: str = Field(..., description=\"The name of the business or entity.\")\n    address: str = Field(..., description=\"The address of the business or entity.\")\n    phone_number: str = Field(..., description=\"The phone number of the business or entity.\")\n    website: str = Field(..., description=\"The website URL of the business or entity.\")\n    description: str = Field(..., description=\"A brief description of the business or entity.\")",
+        "detail": "models.business",
+        "documentation": {}
+    },
+    {
+        "label": "get_browser_config",
+        "kind": 2,
+        "importPath": "src.scraper",
+        "description": "src.scraper",
+        "peekOfCode": "def get_browser_config() -> BrowserConfig:\n    \"\"\"\n    Returns the browser configuration for the crawler.\n    Returns:\n        BrowserConfig: The configuration settings for the browser.\n    \"\"\"\n    # https://docs.crawl4ai.com/core/browser-crawler-config/\n    return BrowserConfig(\n        browser_type=\"chromium\",  # Type of browser to simulate\n        headless=True,  # Whether to run in headless mode (no GUI)",
+        "detail": "src.scraper",
+        "documentation": {}
+    },
+    {
+        "label": "get_llm_strategy",
+        "kind": 2,
+        "importPath": "src.scraper",
+        "description": "src.scraper",
+        "peekOfCode": "def get_llm_strategy(llm_instructions: str, output_format: BaseModel) -> LLMExtractionStrategy:\n    \"\"\"\n    Returns the configuration for the language model extraction strategy.\n    Returns:\n        LLMExtractionStrategy: The settings for how to extract data using LLM.\n    \"\"\"\n    # https://docs.crawl4ai.com/api/strategies/#llmextractionstrategy\n    return LLMExtractionStrategy(\n        llm_config=LLMConfig(provider=LLM_MODEL, api_token=API_TOKEN),  # Updated configuration\n        schema=output_format.model_json_schema(),  # JSON schema of the data model",
+        "detail": "src.scraper",
+        "documentation": {}
+    },
+    {
+        "label": "is_duplicated",
+        "kind": 2,
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "peekOfCode": "def is_duplicated(record: str, seen_names: set) -> bool:\n    return record in seen_names\ndef save_data_to_csv(records: list, data_struct: BaseModel, filename: str):\n    if not records:\n        print(\"No records to save.\")\n        return\n    # Use field names from the PydantiAc data model\n    fieldnames = data_struct.model_fields.keys()\n    with open(filename, mode=\"w\", newline=\"\", encoding=\"utf-8\") as file:\n        writer = csv.DictWriter(file, fieldnames=fieldnames)",
+        "detail": "src.utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_data_to_csv",
+        "kind": 2,
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "peekOfCode": "def save_data_to_csv(records: list, data_struct: BaseModel, filename: str):\n    if not records:\n        print(\"No records to save.\")\n        return\n    # Use field names from the PydantiAc data model\n    fieldnames = data_struct.model_fields.keys()\n    with open(filename, mode=\"w\", newline=\"\", encoding=\"utf-8\") as file:\n        writer = csv.DictWriter(file, fieldnames=fieldnames)\n        writer.writeheader()\n        writer.writerows(records)",
+        "detail": "src.utils",
+        "documentation": {}
+    },
+    {
+        "label": "LLM_MODEL",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "LLM_MODEL = \"gemini/gemini-2.0-flash\"\n# API token for authentication with the LLM provider.\n# This is fetched from the environment variable \"GEMINI_API_KEY\".\nAPI_TOKEN = os.getenv(\"GEMINI_API_KEY\")\n# Base URL of the website to scrape.\n# In this example, we are scraping Yellow Pages for dentists in Toronto, ON.\n# You can modify the URL to change the location or the type of business.\n# Example:\n# - For plumbers in Vancouver: \"https://www.yellowpages.ca/search/si/{page_number}/Plumbers/Vancouver+BC\"\n# - For restaurants in Montreal: \"https://www.yellowpages.ca/search/si/{page_number}/Restaurants/Montreal+QC\"",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "API_TOKEN",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "API_TOKEN = os.getenv(\"GEMINI_API_KEY\")\n# Base URL of the website to scrape.\n# In this example, we are scraping Yellow Pages for dentists in Toronto, ON.\n# You can modify the URL to change the location or the type of business.\n# Example:\n# - For plumbers in Vancouver: \"https://www.yellowpages.ca/search/si/{page_number}/Plumbers/Vancouver+BC\"\n# - For restaurants in Montreal: \"https://www.yellowpages.ca/search/si/{page_number}/Restaurants/Montreal+QC\"\nBASE_URL = \"https://www.yellowpages.ca/search/si/{page_number}/Dentists/Toronto+ON\"\n# CSS selector to target the main HTML element containing the business information.\n# This is specific to Yellow Pages and helps focus the scraper on relevant content",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "BASE_URL = \"https://www.yellowpages.ca/search/si/{page_number}/Dentists/Toronto+ON\"\n# CSS selector to target the main HTML element containing the business information.\n# This is specific to Yellow Pages and helps focus the scraper on relevant content\n# instead of sending the entire HTML page to the LLM.\nCSS_SELECTOR = \"[class^='listing_right_section']\"\n# Maximum number of pages to crawl. Adjust this value based on how much data you want to scrape.\nMAX_PAGES = 3  # Example: Set to 5 to scrape 5 pages.\n# Instructions for the LLM on what information to extract from the scraped content.\n# The LLM will extract the following details for each business:\n# - Name",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "CSS_SELECTOR",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "CSS_SELECTOR = \"[class^='listing_right_section']\"\n# Maximum number of pages to crawl. Adjust this value based on how much data you want to scrape.\nMAX_PAGES = 3  # Example: Set to 5 to scrape 5 pages.\n# Instructions for the LLM on what information to extract from the scraped content.\n# The LLM will extract the following details for each business:\n# - Name\n# - Address\n# - Website\n# - Phone number\n# - A one-sentence description",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_PAGES",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "MAX_PAGES = 3  # Example: Set to 5 to scrape 5 pages.\n# Instructions for the LLM on what information to extract from the scraped content.\n# The LLM will extract the following details for each business:\n# - Name\n# - Address\n# - Website\n# - Phone number\n# - A one-sentence description\nSCRAPER_INSTRUCTIONS = (\n    \"Extract all business information: 'name', 'address', 'website'\"",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "SCRAPER_INSTRUCTIONS",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "SCRAPER_INSTRUCTIONS = (\n    \"Extract all business information: 'name', 'address', 'website'\"\n    \", 'phone number' and a one-sentence 'description' from the following content.\"\n)",
+        "detail": "config",
+        "documentation": {}
+    }
+]
