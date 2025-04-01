@@ -1,7 +1,6 @@
-```markdown
 # AI Web Scraper Using Crawl4AI  
 
-### 👉 **[Learn How to Easily Scrape and Build Lead Lists with Crawl4AI!](https://dev.to/kaymen99/scrape-any-website-fast-and-cheap-with-crawl4ai-3fj1)**  
+### 👉 **[Learn How to Easily Scrape and Build Lead Lists with Crawl4AI!]()**  
 
 This project is an AI-driven web scraper powered by [**Crawl4AI**](https://docs.crawl4ai.com/), designed to automate **lead generation** by extracting business details such as names, addresses, and phone numbers from platforms like [**YellowPages**](https://www.yellowpages.ca/). Leveraging advanced LLMs such as GPT-4o, Claude, and DeepSeek, it processes and organizes data efficiently, saving it in **CSV files** for easy access and further analysis.  
 
@@ -51,10 +50,7 @@ Ensure you have the following installed:
 ### Setup  
 
 #### Clone the Repository  
-```bash
-git clone https://github.com/kaymen99/llm-web-scraper
-cd llm-web-scraper
-```
+
 
 #### Create and Activate a Virtual Environment  
 ```bash
@@ -98,12 +94,3 @@ Modify the `config.py` file to customize the scraper's behavior:
 - **CSS_SELECTOR**: HTML selector to extract business details.  
 - **MAX_PAGES**: Number of pages to scrape (default: `3`).  
 - **SCRAPER_INSTRUCTIONS**: Custom LLM prompt defining the data extraction rules.  
-
-## Contributing  
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.  
-
-## Contact  
-
-For questions or suggestions, reach out to me at `aymenMir1001@gmail.com`.  
-```
